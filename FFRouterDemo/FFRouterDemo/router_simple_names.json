@@ -1,0 +1,8 @@
+{
+    "presentAViewController":"TestDemo://AControllers/AVC?jumptype=present",
+    "AViewController":"TestDemo://AControllers/AVC?jumptype=push",
+    "BViewController":"TestDemo://BControllers/BVC",
+    "CViewController":"TestDemo://CControllers/CVC",
+    "DViewController":"TestDemo://AControllers/DControllers/DVC",
+    "EViewController":"TestDemo://AControllers/EVC"
+}

@@ -1,0 +1,35 @@
+{
+    "AControllers":[
+        {
+            "url":"JLRouterDemo://AControllers/AVC",
+            "iosclass":"AViewController",
+            "androidclass":""
+        },
+        {
+            "url":"JLRouterDemo://AControllers/EVC",
+            "iosclass":"EViewController",
+            "androidclass":""
+        }
+    ],
+    "BControllers":[
+        {
+            "url":"JLRouterDemo://BControllers/BVC",
+            "iosclass":"BViewController",
+            "androidclass":""
+        }
+    ],
+    "CControllers":[
+        {
+            "url":"JLRouterDemo://CControllers/CVC",
+            "iosclass":"CViewController",
+            "androidclass":""
+        }
+    ],
+    "AControllers/DControllers":[
+        {
+            "url":"JLRouterDemo://AControllers/DControllers/DVC",
+            "iosclass":"DViewController",
+            "androidclass":""
+        }
+    ],
+}

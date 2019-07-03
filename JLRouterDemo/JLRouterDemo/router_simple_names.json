@@ -1,0 +1,8 @@
+{
+    "presentAViewController":"JLRouterDemo://AControllers/AVC?jumptype=present",
+    "AViewController":"JLRouterDemo://AControllers/AVC?jumptype=push",
+    "BViewController":"JLRouterDemo://BControllers/BVC",
+    "CViewController":"JLRouterDemo://CControllers/CVC",
+    "DViewController":"JLRouterDemo://AControllers/DControllers/DVC",
+    "EViewController":"JLRouterDemo://AControllers/EVC"
+}
